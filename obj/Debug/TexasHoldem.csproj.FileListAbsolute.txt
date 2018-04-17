@@ -1,0 +1,15 @@
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\GUI\MainWindow.resx
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\GUI\MainWindow.Designer.cs
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleControl.dll
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ProcessInterface.dll
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\TexasHoldem.csprojResolveAssemblyReference.cache
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.GUI.MainWindow.resources
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\TexasHoldem.csproj.GenerateResource.Cache
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\TexasHoldem.csproj.CoreCompileInputs.cache
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Gustav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\GUI\MainWindow.cs
